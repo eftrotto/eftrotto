@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/eftrotto?v=1787612672181"
+    src="https://gitascii.com/api/eftrotto?v=1787612716127"
     alt="GitAscii Widget"
     width="100%"
   />
