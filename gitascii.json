@@ -1,0 +1,140 @@
+{
+  "username": "eftrotto",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1787606683880_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 272,
+        "y": 103
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1787606683880_2"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 402
+      },
+      "size": {
+        "width": 536,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1787606683880_3"
+    },
+    {
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 578
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1787606683880_4"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 544,
+        "y": 402
+      },
+      "size": {
+        "width": 240,
+        "height": 160
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "css",
+          "py"
+        ],
+        "theme": "dark",
+        "perLine": 4,
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1787606683880_5"
+    },
+    {
+      "instanceId": "widget_1787611762241",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
+      "position": {
+        "x": 24,
+        "y": 90
+      },
+      "size": {
+        "width": 224,
+        "height": 306
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false,
+        "country": "BR",
+        "animationType": "slide-up",
+        "animationPreviewKey": 4,
+        "animationDuration": 2000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal",
+  "profileSlug": "default"
+}
